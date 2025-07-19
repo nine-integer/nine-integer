@@ -1,1 +1,1 @@
-# hio guys follow zing pls,,, @zing54 btw
+# hai guys follwo zing pls,,, @zing54 btw
