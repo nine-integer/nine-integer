@@ -1,1 +1,1 @@
-# hai guys follwo zing pls,,, @zing54 btw
+# follow this AWESOME and cool persojn @Astherdisk
