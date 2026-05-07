@@ -1,5 +1,5 @@
 # it's ya boy nine
-Long time no see..! 
+sup
 
 face reveal
 
