@@ -8,4 +8,13 @@
 [straw](https://mediapup.straw.page)
 [alt](https://github.com/ccaptainred)
 
-$${\color{#566a82}test}$$
+$${\color{#C6AC8F2}test}$$
+<svg fill="none" viewBox="0 0 800 400" width="100%" height="100%" xmlns="http://w3.org">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://w3.org" style="background: #4A90E2; color: white; font-family: sans-serif; padding: 40px; height: 100%; box-sizing: border-box;">
+      <h1>Your Custom Background Block</h1>
+      <p>This text lives inside an SVG container with a solid background color.</p>
+    </div>
+  </foreignObject>
+</svg>
+
