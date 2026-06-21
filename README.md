@@ -17,4 +17,4 @@ ___
  [artfight](https://artfight.net/~nineinteger)
 </div>
 
-### dont be afraid to interact, trust me yo..
+<h6>dont be afraid to interact, trust me yo..</h6>
