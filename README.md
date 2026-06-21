@@ -11,5 +11,10 @@ ___
  [alt](https://github.com/ccaptainred) .
  [tt](https://www.tiktok.com/@mediapup?_r=1&_t=ZS-97P4ZQiqA9S) .
  [dc](https://discord.gg/PtBDfh26) .
- [pin](https://pin.it/6csJn9lyN)
+ [pin](https://pin.it/6csJn9lyN) .
+ [insta](https://www.instagram.com/mediapup_?igsh=a2lqd3l6aHlkZjdi) .
+ [x](https://x.com/mediapup_)
+ [artfight](https://artfight.net/~nineinteger)
 </div>
+
+### dont be afraid to interact, trust me yo..
