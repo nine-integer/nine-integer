@@ -13,7 +13,7 @@ ___
  [dc](https://discord.gg/PtBDfh26) .
  [pin](https://pin.it/6csJn9lyN) .
  [insta](https://www.instagram.com/mediapup_?igsh=a2lqd3l6aHlkZjdi) .
- [x](https://x.com/mediapup_)
+ [x](https://x.com/mediapup_) .
  [artfight](https://artfight.net/~nineinteger)
 </div>
 
