@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://giphy.com" width="150"/>
-  <h1>wazzup, im <img src="https://githubusercontent.com" width="30px"> max </h1>
+  <img src="1000022534-removebg-preview.png" width="150"/>
+  <h1>wazzup, im <img src=" " width="30px"> max </h1>
   <p>✨ <i>welc 2 pf</i> ✨</p>
 </div>
 
