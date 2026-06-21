@@ -1,10 +1,15 @@
 <div align="center">
-<h6>i do NOT know how 2 code properly</h6>
-  <img src="https://64.media.tumblr.com/2ebbd3a7fd6098a44834afc11517a809/0a11a47c43145bbe-f9/s75x75_c1/2f28dee77c585de5d76939f89592b7b8e222f433.gifv"="150"/>
-  <h1>max's profile</h1>
-  <h5><img src="https://64.media.tumblr.com/18b5048213e4a9cb2b80bfadb7766974/a34d657383d6ce06-05/s75x75_c1/3d67fdc605e0f4e3fbdec01b500c9a29b7a47e5f.gifv"="100"/> <i>welc</i> <img src="https://64.media.tumblr.com/18b5048213e4a9cb2b80bfadb7766974/a34d657383d6ce06-05/s75x75_c1/3d67fdc605e0f4e3fbdec01b500c9a29b7a47e5f.gifv"="100"/></h5>
-</div>
+<h6>i am NOT a proffesional coder bruh this shit took me hours</h6>
+  :: <img src="https://64.media.tumblr.com/2ebbd3a7fd6098a44834afc11517a809/0a11a47c43145bbe-f9/s75x75_c1/2f28dee77c585de5d76939f89592b7b8e222f433.gifv"="200"/><img src="https://64.media.tumblr.com/bd4a189d2ab921d7dc4f85406512d7ad/3a65586372dd074b-13/s75x75_c1/580b668373d3cd8e1449a6e574c4760e9cb3499e.gifv"="200"/><img src="https://64.media.tumblr.com/6823adf5fa6413705d2a4bf73d220a79/0997fddafbefa535-8d/s75x75_c1/438fee1fb785488d28e7033ee22b5ae93296fc89.pnj"="60"/><img src="https://64.media.tumblr.com/71c227eb7ae4c7274796ffab87579716/d9ef0870755614ab-8e/s75x75_c1/54c7819bbfd2b2fe9116ff9835d63e98d7553157.pnj"="60"/> ::
 
-### links..
-[straw](https://mediapup.straw.page)
-[alt](https://github.com/ccaptainred)
+___
+  # <i>$\color{#C6AC8F}{\text{ni}}$</i>$\color{#EAE0D5}{\text{ne}}$ <p>wazzup bruh.. im active on tiktok and discord, i REALLY like nine (obviously) and relate to them yo..</p>
+
+
+### :: link link link
+[straw](https://mediapup.straw.page) .
+ [alt](https://github.com/ccaptainred) .
+ [tt](https://www.tiktok.com/@mediapup?_r=1&_t=ZS-97P4ZQiqA9S) .
+ [dc](https://discord.gg/PtBDfh26) .
+ [pin](https://pin.it/6csJn9lyN)
+</div>
