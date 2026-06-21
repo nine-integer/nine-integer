@@ -8,4 +8,4 @@
 [straw](https://mediapup.straw.page)
 [alt](https://github.com/ccaptainred)
 
-$${\color{#C6AC8F2}test}$$
+$${\color{#C6AC8F2}test/space text}$$
