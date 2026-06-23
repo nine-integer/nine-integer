@@ -18,3 +18,7 @@ ___
 </div>
 
 <h6>dont be afraid to interact, trust me yo..</h6>
+<div align="center">
+<img width="459" height="67" alt="image" src="https://github.com/user-attachments/assets/fd42aea5-f799-4b94-8bbd-ded76d59b6da" />
+<p>hi kat!</p>
+</div>
