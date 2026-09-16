@@ -16,7 +16,7 @@
  [artfight](https://artfight.net/~nineinteger)
 </div>
 <div align="center">
-<h6>*free to int at all times!*</h6>
+<h6> free to int at all times!</h6>
   <table>
 <tr><td align="center"><b>123</b><br/><sub>followers</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>5</b><br/><sub>following</sub></td></tr>
 </table>
