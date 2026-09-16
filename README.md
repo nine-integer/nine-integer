@@ -1,13 +1,12 @@
 <div align="center">
-  <h5>welcome to..</h5>
-  
----
-
-  <img width="1280" height="1280" alt="Untitled509_20260622032824" src="https://github.com/user-attachments/assets/0d27f67a-79f6-4dca-80d4-5f3eaffba392" />
+  <h5>@nine-integer</h5>
 
 
-###  link link link
-[straw](https://mediapup.straw.page) 
+  <img src="https://github.com/user-attachments/assets/0d27f67a-79f6-4dca-80d4-5f3eaffba392" width="350">
+
+
+###  links
+[straw](https://ninebfdi.straw.page) 
  [alt](https://github.com/ccaptainred) 
  [tt](https://www.tiktok.com/@mediapup?_r=1&_t=ZS-97P4ZQiqA9S) 
  [dc](https://discord.gg/PtBDfh26) 
